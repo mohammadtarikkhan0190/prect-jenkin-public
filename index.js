@@ -1,5 +1,5 @@
 const data={
     name:'tarik',
-    age:'21'
+    age:'26'
 };
 console.log("data is ",data);
